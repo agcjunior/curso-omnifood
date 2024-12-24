@@ -41,6 +41,10 @@ strong {
   margin-right: 5px;
 }
 
+.mb-md {
+  margin-bottom: 4.8rem !important;
+}
+
 .grid {
   display: grid;
   column-gap: 6.4rem;
